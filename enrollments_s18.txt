@@ -1,0 +1,57 @@
+title,course_number,department,semester,year,enrolled_count,max_enrollment,open_seats,waitlist_count,max_waitlist,enrollment_status,collected
+Foundations of Data Science,31678,Statistics,Spring,2018,1032,1046,14,14,44,Closed,2018-05-31 15:22
+Principles & Techniques of Data Science,37227,Electrical Eng & Computer Sci,Spring,2018,619,650,31,0,300,Open,2018-05-31 15:22
+Probability and Mathematical Statistics in Data Science,30832,Statistics,Spring,2018,157,159,2,0,15,Open,2018-05-31 15:22
+Linear Algebra for Data Science,30833,Statistics,Spring,2018,35,50,15,0,10,Open,2018-05-31 15:22
+Computational Structures in Data Science,41565,Electrical Eng & Computer Sci,Spring,2018,124,200,76,0,100,Open,2018-05-31 15:22
+Data Science Applications in Geography,33084,Geography,Spring,2018,15,30,15,0,6,Open,2018-05-31 15:22
+Crime and Punishment: Taking the Measure of the US Justice System,32891,L&S Legal Studies,Spring,2018,26,30,4,0,10,Open,2018-05-31 15:22
+Data Science Connector,42347,UG Interdisciplinary Studies,Spring,2018,9,32,23,0,15,Open,2018-05-31 15:22
+Data Science Connector,42348,UG Interdisciplinary Studies,Spring,2018,12,32,20,0,15,Open,2018-05-31 15:22
+Immunotherapy of Cancer: Success and Failures,32863,Molecular & Cell Biology,Spring,2018,17,20,3,0,0,Open,2018-05-31 15:22
+Lower Division Special Topics in Business Administration,41284,Haas School of Business,Spring,2018,48,62,14,0,0,Open,2018-05-31 15:22
+Lower Division Special Topics in Business Administration,41285,Haas School of Business,Spring,2018,43,62,19,0,0,Open,2018-05-31 15:22
+Data Science for Cognitive Neuroscience,42654,Psychology,Spring,2018,13,30,17,0,0,Open,2018-05-31 15:22
+Behind the Data: Humans and Values,42374,School of Information,Spring,2018,41,49,8,0,49,Open,2018-05-31 15:22
+"Introduction to Science, Technology, and Society",42032,History,Spring,2018,57,100,43,0,100,Open,2018-05-31 15:22
+Statistical Methods for Data Science,32673,Statistics,Spring,2018,32,50,18,0,10,Open,2018-05-31 15:22
+Introduction to Computational Techniques in Physics,28817,Physics,Spring,2018,46,58,12,0,8,Open,2018-05-31 15:22
+Probability for Data Science,32926,Statistics,Spring,2018,103,120,17,0,20,Open,2018-05-31 15:22
+Introduction to Machine Learning,35661,Electrical Eng & Computer Sci,Spring,2018,319,368,49,0,300,Open,2018-05-31 15:22
+Concepts in Computing with Data,30844,Statistics,Spring,2018,348,361,13,0,60,Open,2018-05-31 15:22
+Concepts of Probability,30856,Statistics,Spring,2018,316,396,80,0,60,Open,2018-05-31 15:22
+Modern Statistical Prediction and Machine Learning,30887,Statistics,Spring,2018,68,70,2,1,16,Open,2018-05-31 15:22
+The Structure and Interpretation of Computer Programs,35371,Electrical Eng & Computer Sci,Spring,2018,1224,1400,176,0,800,Open,2018-05-31 15:22
+Data Structures,35432,Electrical Eng & Computer Sci,Spring,2018,1382,1450,68,0,400,Open,2018-05-31 15:22
+Introduction to Database Systems,35632,Electrical Eng & Computer Sci,Spring,2018,443,499,56,0,300,Open,2018-05-31 15:22
+Special Topics,41752,Electrical Eng & Computer Sci,Spring,2018,109,116,7,0,140,Open,2018-05-31 15:22
+Applied Data Science with Venture Applications,41878,Industrial Eng & Ops Research,Spring,2018,91,100,9,0,1,Open,2018-05-31 15:22
+Special Topics in Information,37950,School of Information,Spring,2018,30,40,10,0,30,Open,2018-05-31 15:22
+Foundations of Data Science,27696,Electrical Eng & Computer Sci,Fall,2018,793,1296,503,150,700,Open,2018-06-01 09:21
+Principles & Techniques of Data Science,25289,Statistics,Fall,2018,350,744,394,298,400,Open,2018-06-01 09:21
+Probability for Data Science,31468,Statistics,Fall,2018,155,240,85,16,40,Open,2018-06-01 09:21
+PyEarth: A Python Introduction to Earth Science,32879,Earth & Planetary Science,Fall,2018,3,40,37,0,10,Open,2018-06-01 09:21
+Data Science for Smart Cities,27752,Civil & Environmental Eng,Fall,2018,25,60,35,0,25,Open,2018-06-01 09:21
+Computational Structures in Data Science,30996,Electrical Eng & Computer Sci,Fall,2018,121,200,79,33,100,Open,2018-06-01 09:21
+Immigration: What do the data tell us?,25929,Demography,Fall,2018,12,25,13,0,5,Open,2018-06-01 09:21
+How Does History Count?,32177,History,Fall,2018,0,20,20,0,10,Open,2018-06-01 09:21
+Probability and Mathematical Statistics in Data Science,24294,Statistics,Fall,2018,150,150,0,30,30,Closed,2018-06-01 09:21
+Information Technology and Society,32637,African American Studies,Fall,2018,40,40,0,0,0,Closed,2018-06-01 09:21
+Ethics in Science and Engineering,26884,Bioengineering,Fall,2018,144,160,16,20,20,Open,2018-06-01 09:21
+"Introduction to Science, Technology, and Society",31147,History,Fall,2018,105,200,95,1,40,Open,2018-06-01 09:21
+The Social Life of Computing,25474,UG Interdisciplinary Studies,Fall,2018,67,90,23,13,25,Open,2018-06-01 09:21
+Introduction to Population Analysis,21166,Demography,Fall,2018,30,80,50,0,12,Open,2018-06-01 09:21
+Energy and Environmental Issues,32987,Energy & Resources Group,Fall,2018,0,40,40,0,40,Open,2018-06-01 09:21
+Data Science in Global Change Ecology,26798,"Env Sci, Policy, & Mgmt",Fall,2018,38,50,12,0,10,Open,2018-06-01 09:21
+Applied Data Science with Venture Applications,28108,Industrial Eng & Ops Research,Fall,2018,86,180,94,29,55,Open,2018-06-01 09:21
+Introduction to Machine Learning and Data Analytics,28029,Industrial Eng & Ops Research,Fall,2018,46,86,40,10,10,Open,2018-06-01 09:21
+Natural Language Processing,28716,School of Information,Fall,2018,75,75,0,41,75,Closed,2018-06-01 09:21
+Introduction to Computational Techniques in Physics,23096,Physics,Fall,2018,16,60,44,0,10,Open,2018-06-01 09:21
+Elective Physics: Special Topics,25653,Physics,Fall,2018,22,45,23,0,5,Open,2018-06-01 09:21
+Concepts in Computing with Data,23939,Statistics,Fall,2018,240,300,60,0,0,Open,2018-06-01 09:21
+Reproducible and Collaborative Statistical Data Science,23850,Statistics,Fall,2018,40,50,10,10,10,Open,2018-06-01 09:21
+The Beauty and Joy of Computing,27067,Electrical Eng & Computer Sci,Fall,2018,32,237,205,0,125,Open,2018-06-01 09:21
+The Structure and Interpretation of Computer Programs,27153,Electrical Eng & Computer Sci,Fall,2018,185,1700,1515,138,700,Open,2018-06-01 09:21
+Data Structures,27255,Electrical Eng & Computer Sci,Fall,2018,308,670,362,202,350,Open,2018-06-01 09:21
+Linear Algebra and Differential Equations,22246,Mathematics,Fall,2018,116,481,365,0,0,Open,2018-06-01 09:21
+Introduction to Artificial Intelligence,27019,Electrical Eng & Computer Sci,Fall,2018,222,650,428,328,500,Open,2018-06-01 09:21

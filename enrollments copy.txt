@@ -1,0 +1,28 @@
+Foundations of Data Science,27696,Electrical Eng & Computer Sci,Fall,2018,793,1296,503,150,700,Open,2018-06-01 09:28
+Principles & Techniques of Data Science,25289,Statistics,Fall,2018,350,744,394,298,400,Open,2018-06-01 09:28
+Probability for Data Science,31468,Statistics,Fall,2018,155,240,85,16,40,Open,2018-06-01 09:28
+PyEarth: A Python Introduction to Earth Science,32879,Earth & Planetary Science,Fall,2018,3,40,37,0,10,Open,2018-06-01 09:28
+Data Science for Smart Cities,27752,Civil & Environmental Eng,Fall,2018,25,60,35,0,25,Open,2018-06-01 09:28
+Computational Structures in Data Science,30996,Electrical Eng & Computer Sci,Fall,2018,121,200,79,33,100,Open,2018-06-01 09:28
+Immigration: What do the data tell us?,25929,Demography,Fall,2018,12,25,13,0,5,Open,2018-06-01 09:28
+How Does History Count?,32177,History,Fall,2018,0,20,20,0,10,Open,2018-06-01 09:28
+Probability and Mathematical Statistics in Data Science,24294,Statistics,Fall,2018,150,150,0,30,30,Closed,2018-06-01 09:28
+Information Technology and Society,32637,African American Studies,Fall,2018,40,40,0,0,0,Closed,2018-06-01 09:28
+Ethics in Science and Engineering,26884,Bioengineering,Fall,2018,144,160,16,20,20,Open,2018-06-01 09:28
+"Introduction to Science, Technology, and Society",31147,History,Fall,2018,105,200,95,1,40,Open,2018-06-01 09:28
+The Social Life of Computing,25474,UG Interdisciplinary Studies,Fall,2018,74,90,16,5,25,Open,2018-06-01 09:28
+Introduction to Population Analysis,21166,Demography,Fall,2018,30,80,50,0,12,Open,2018-06-01 09:28
+Energy and Environmental Issues,32987,Energy & Resources Group,Fall,2018,0,40,40,0,40,Open,2018-06-01 09:28
+Data Science in Global Change Ecology,26798,"Env Sci, Policy, & Mgmt",Fall,2018,38,50,12,0,10,Open,2018-06-01 09:28
+Applied Data Science with Venture Applications,28108,Industrial Eng & Ops Research,Fall,2018,86,180,94,29,55,Open,2018-06-01 09:28
+Introduction to Machine Learning and Data Analytics,28029,Industrial Eng & Ops Research,Fall,2018,46,86,40,10,10,Open,2018-06-01 09:28
+Natural Language Processing,28716,School of Information,Fall,2018,75,75,0,41,75,Closed,2018-06-01 09:28
+Introduction to Computational Techniques in Physics,23096,Physics,Fall,2018,16,60,44,0,10,Open,2018-06-01 09:28
+Elective Physics: Special Topics,25653,Physics,Fall,2018,22,45,23,0,5,Open,2018-06-01 09:28
+Concepts in Computing with Data,23939,Statistics,Fall,2018,240,300,60,0,0,Open,2018-06-01 09:28
+Reproducible and Collaborative Statistical Data Science,23850,Statistics,Fall,2018,40,50,10,10,10,Open,2018-06-01 09:28
+The Beauty and Joy of Computing,27067,Electrical Eng & Computer Sci,Fall,2018,32,237,205,0,125,Open,2018-06-01 09:28
+The Structure and Interpretation of Computer Programs,27153,Electrical Eng & Computer Sci,Fall,2018,185,1700,1515,138,700,Open,2018-06-01 09:28
+Data Structures,27255,Electrical Eng & Computer Sci,Fall,2018,308,670,362,202,350,Open,2018-06-01 09:28
+Linear Algebra and Differential Equations,22246,Mathematics,Fall,2018,116,481,365,0,0,Open,2018-06-01 09:28
+Introduction to Artificial Intelligence,27019,Electrical Eng & Computer Sci,Fall,2018,222,650,428,328,500,Open,2018-06-01 09:28
